@@ -5,7 +5,7 @@
 
 /**
  *
- * @author dharm
+ * @author dharmik
  */
 public class BlackJack {
 

@@ -48,6 +48,8 @@ java BlackjackGame
 - Methods: `startGame()`, `playerTurn()`, `dealerTurn()`, `showResult()`
 
 
+![BlackJack](https://github.com/user-attachments/assets/a74a19d9-f2cd-4811-9392-93007bb7c448)
+![BlackJack](https://github.com/user-attachments/assets/a74a19d9-f2cd-4811-9392-93007bb7c448)
 
 ---
 
